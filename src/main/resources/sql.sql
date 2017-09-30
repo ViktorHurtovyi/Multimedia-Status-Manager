@@ -1,1 +1,1 @@
-Select * from manager
+SELECT * FROM manager
